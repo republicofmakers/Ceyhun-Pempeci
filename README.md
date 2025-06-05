@@ -1,14 +1,12 @@
 # Who am I?
 
+My name is Ceyhun Pempeci, and I was born in Turkey in 1997. I spent most of my early life in a small village near Ankara, where I grew up before moving to the city center for high school. I spent four years there completing my secondary education.
 
-My name is "Ceyhun Pempeci"... My repo called "Republic of Makers".
+I'm proud to say that I funded nearly all of my education through scholarships, which reflects both my determination and academic performance.
 
-The name 'Republic of Makers' reflects my belief in the importance of fostering a culture of creation over consumption. In a world increasingly focused on consumption, I hope to inspire a future where creators outnumber consumers, contributing to innovation and shared knowledge.
-
-I am specialized in Embedded Systems. This repository serves as a platform to showcase my skills, education and professional journey. I will be also sharing open source projects to contribute to and inspire the community.
+My greatest passion is electronics—both as a hobby and a profession. I also have a strong interest in martial arts, and enjoy 3D printing as a creative outlet and technical challenge.
 
 
-<br>
 <br>
 <br>
 
@@ -24,16 +22,13 @@ I am specialized in Embedded Systems. This repository serves as a platform to sh
 Graduation Thesis: **Angle of Arrival Estimation Algorithms Using Received Signal Strength Indicator**  <br>
 In my thesis, I explored ways to improve indoor positioning systems using low-cost ESP32 module and directional antennas. My research involved designing an antenna multiplexer with Pi and L-type impedance matching circuits, where the impedance values were determined using a network analyzer and smith chart to achieve better performance. I also implemented trigonometric algorithms for Angle of Arrival (AoA) estimation in C code, focusing on accurate and efficient signal processing. This work showed the potential of RSSI-based algorithms for reliable AoA estimation, offering a scalable and affordable approach for outdoor positioning with applications in areas like logistics, healthcare, and smart infrastructure. [Click](https://github.com/republicofmakers/Thesis-Angle-of-Arrival-Estimation-Algorithms-Using-Received-Signal-Strength-Indicator)
 
-### Awards / Scholarships
-I was honored with numerous scholarships and awards throughout my education, recognizing my dedication and achievements.
 
-### Hobbies
+<br>
+<br>
+
+# Hobbies
 | Title            | Description                      | Repo  Links                      | Timelines                        |  
 |------------------|----------------------------------|----------------------------------|----------------------------------|
-| **Sports**      |  I'm passionate about martial arts, particularly archery and swordsmanship. From 2016 to 2021, I was an active member of my university's Korean Martial Arts Student Club. It was a rewarding experience that combined discipline, fun, and the opportunity to improve both skills and overall health. I also practice swordsmanship whenever I have free time.     | [Click](https://github.com/republicofmakers/Sports)| 2016 - now |
-| **3D Printing** |  I've been involved in 3D printing since 2018, starting with the release of the Ender 3 Pro. Nowadays, I use the Bambu Lab X1 Combo for my projects, ranging from creating custom cases for electronics to replicating or repairing broken mechanical parts. | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)| 2018 - now | 
+| **Sports**      | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Sports)| 2016 - now |
+| **3D Printing** |  | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)| 2018 - now | 
 
-  
-<br>
-<br>
-<br>
