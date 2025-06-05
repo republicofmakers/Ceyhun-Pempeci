@@ -1,6 +1,10 @@
 # Who am I?
 
-My name is Ceyhun Pempeci, and I was born in Turkey in 1997. I spent most of my early life in a small village near Ankara, where I grew up before moving to the city center for high school. I spent four years there completing my secondary education.
+<img width="500" alt="Profile" src="https://github.com/user-attachments/assets/879c6aff-b9cb-47b2-8164-5df62855a8d2" />
+
+Hi , my name is Ceyhun Pempeci.
+
+I was born in Turkey in 1997. I spent most of my early life in a small village near Ankara, where I grew up before moving to the city center for high school. I spent four years there completing my secondary education.
 
 I'm proud to say that I funded nearly all of my education through scholarships, which reflects both my determination and academic performance.
 
