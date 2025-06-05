@@ -27,8 +27,8 @@ In my thesis, I explored ways to improve indoor positioning systems using low-co
 <br>
 
 # Hobbies
-| Title            | Description                      | Repo  Links                      | Timelines                        |  
-|------------------|----------------------------------|----------------------------------|----------------------------------|
-| **Sports**      | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Sports)| 2016 - now |
-| **3D Printing** |  | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)| 2018 - now | 
+| Title            | Description                      | Repo  Links                      | 
+|------------------|----------------------------------|----------------------------------|
+| **Sports**      | Please click to link to see more information    | [Click](https://github.com/republicofmakers/Sports)|
+| **3D Printing** | Please click to link to see more information    | [Click](https://github.com/republicofmakers/3D-Printing/tree/main)|
 
