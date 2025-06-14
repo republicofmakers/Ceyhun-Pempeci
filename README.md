@@ -6,9 +6,9 @@ Hi, my name is Ceyhun Pempeci.
 
 I was born in Turkey in 1997 and spent most of my early life in a small village near Ankara. Later, I moved to the city center to attend high school, where I completed four years of secondary education.
 
-I'm proud to have funded nearly all of my education through scholarships—a reflection of both my dedication and academic performance.
-
 I earned my Bachelor’s degree in Electronics Engineering from Hankuk University of Foreign Studies (HUFS) in South Korea. Studying abroad not only strengthened my technical foundation but also broadened my global perspective and adaptability.
+
+I'm proud to have funded nearly all of my education through scholarships—a reflection of both my dedication and academic performance.
 
 My greatest passion is electronics, which I pursue both professionally and as a hobby. I'm also deeply interested in martial arts, and I enjoy 3D printing as a creative and technical challenge.
 
