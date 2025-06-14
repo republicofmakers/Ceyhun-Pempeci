@@ -10,8 +10,7 @@ I earned my Bachelor’s degree in Electronics Engineering from Hankuk Universit
 
 I'm proud to have funded nearly all of my education through scholarships—a reflection of both my dedication and academic performance.
 
-My greatest passion is electronics, which I pursue both professionally and as a hobby. I'm also deeply interested in martial arts, and I enjoy 3D printing as a creative and technical challenge.
-
+What I enjoy most is working with electronics, which I pursue both professionally and as a hobby. My second passion is martial arts, which brings discipline and focus into my life. Third is 3D printing, which I enjoy as a way to combine creativity with practical engineering.
 
 <br>
 <br>
