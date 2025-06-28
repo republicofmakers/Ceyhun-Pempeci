@@ -21,7 +21,7 @@ What I enjoy most is working with electronics, which I pursue both professionall
 |------------------|----------------------------------|----------------------------------|----------------------------------|
 | **High School**          | Suleyman Demiral Anatolian High School     | [Click](https://sdal06.meb.k12.tr/) | 2011.09 - 2015.06 | 
 | **Language School**      | Hankuk University Korean Language School  | [Click](https://www.hufs.ac.kr/hufs/index.do) | 2016.03 - 2017.02 | 
-| **University(Bachelor)** | Hankuk University Department of Electronics Engineering | [Click](https://www.hufs.ac.kr/hufs/index.do) | 2017.03 - 2021.03  | 
+| **University(Bachelor)** | Hankuk University Department of Electronics Engineering | [Click](https://ee.hufs.ac.kr/ee/index.do) | 2017.03 - 2021.03  | 
 
 
 
